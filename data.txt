@@ -1,0 +1,36 @@
+mishra:->hello
+mishra:->hi
+mishra:->how are you...?
+mohit:->hello
+mohit:->i am fine...
+mishra:->.
+mishra:->mohit/d21
+piyush:->hello everyone
+mohit:->
+mohit:->hello piyush
+piyush:->hello mohit
+piyush:->how are you?
+mohit:->
+mohit:->i am fine
+piyush:->
+piyush:->mohit/d21
+saki:->hello mohit
+mishra:->
+jcr:->
+mohit:->
+mohit:->hello
+piyush:->hi
+mohit:->
+mohit:->what do you do?
+piyush:->
+piyush:->nothing personal kid
+piyush:->
+piyush:->
+piyush:->
+piyush:->
+piyush:->
+piyush:->
+piyush:->
+piyush:->
+piyush:->
+mohit:->
